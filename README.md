@@ -2,8 +2,8 @@
 The destructuring assignment syntax is a JavaScript expression that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.
 
 <ul>
-  <li><a href="" title="Array destructuring">Array destructuring</a></li>
-  <li><a href="" title="Object destructuring"></a></li>
+  <li><a href="#array-destructuring" title="Array destructuring">Array destructuring</a></li>
+  <li><a href="#object-destructuring" title="Object destructuring"></a></li>
 </ul>
 
 ```javascript
