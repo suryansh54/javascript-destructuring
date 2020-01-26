@@ -3,7 +3,7 @@ The destructuring assignment syntax is a JavaScript expression that makes it pos
 
 <ul>
   <li><a href="#array-destructuring" title="Array destructuring">Array destructuring</a></li>
-  <li><a href="#object-destructuring" title="Object destructuring"></a></li>
+  <li><a href="#object-destructuring" title="Object destructuring">Object destructuring</a></li>
 </ul>
 
 ```javascript
